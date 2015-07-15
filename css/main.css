@@ -1,0 +1,16 @@
+.primary {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    z-index: 2;
+}
+.primary:hover {
+  opacity: 0;
+  
+}
+.secondary {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  z-index: 1;
+}
